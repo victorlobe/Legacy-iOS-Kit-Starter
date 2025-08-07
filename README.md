@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AppIcon.png" alt="Legacy iOS Kit Icon" width="120" />
+  <img src="/Assets/AppIcon.png" alt="Legacy iOS Kit Icon" width="120" />
 </p>
 
 <h1 align="center">Legacy iOS Kit Starter</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/legacy-ios-kit-starter/releases/latest">
+  <a href="https://github.com/victorlobe/legacy-ios-kit-starter/releases/latest">
     <img alt="Download" src="https://img.shields.io/badge/download-latest-blue?logo=apple" />
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
@@ -39,7 +39,7 @@
 
 ## 🖼️ Screenshots
 
-For what?
+![App Launch Demo](Assets/launch.gif)
 
 ---
 
